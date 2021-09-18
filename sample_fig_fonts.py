@@ -12,7 +12,6 @@ From:
 
 """
 
-from enum import _auto_null
 import term_gui
 import argparse
 from pyfiglet import *
